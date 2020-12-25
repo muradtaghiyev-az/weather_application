@@ -1,4 +1,4 @@
-## Check out this notes
+## Check out these notes
 ```
 "q" -- city`s name
 "id" -- id
