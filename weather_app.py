@@ -8,7 +8,7 @@ class Weather:
         if units is None:
             units = "metric"
         if lang is None:
-            lang = "az"
+            lang = "en"
         self.units = units
         self.lang = lang
         self.default_parameters = {"lang" : self.lang, "units" : self.units, "appid" : Weather.API_KEY}
