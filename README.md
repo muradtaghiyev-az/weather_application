@@ -92,3 +92,7 @@ x.get_info("Baku City")
 x.get_info(58781)
 x.get_info(40.4093, 49.8671)
 ```
+## Some notes
+### 1.If you want another language to choose look "lang.txt"
+### 2.For units you have other choices such as imperial(fahrenheit) or standart(kelvin)
+### 3. Coordinates are "lat", "lon" (latitude, longitude)
